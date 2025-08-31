@@ -1,4 +1,4 @@
-#Fiyin's First CS193 Homework
+# Fiyin's First CS193 Homework
 - The students around me
 - The friendliness of teachers
 - The fact in-person lectures are held in WALC.
